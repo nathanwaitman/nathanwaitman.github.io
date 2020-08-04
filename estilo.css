@@ -1,0 +1,48 @@
+html,body {
+    margin: 0;
+
+}
+#imagem_fundo {
+    background: url("fundo2.perb.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+    }
+#title {
+    color: white;
+    padding-top: 15%;
+    font-size: 65px;
+    
+}
+#subtitle {
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#cvv {
+    color: yellow;
+    border: 1px yellow solid;
+    padding: 10px 15px 10px 15px;
+}
+.icones {
+    width: 128px;
+
+}
+#importancia {
+    background-color: #dad7d7;
+    padding: 17px;
+
+}
+#afetados {
+    padding: 17px;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+section {
+    padding: 20px;
+    float: left;
+}
